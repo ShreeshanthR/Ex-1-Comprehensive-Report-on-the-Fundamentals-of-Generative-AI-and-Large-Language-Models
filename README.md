@@ -107,9 +107,11 @@ Generative AI systems may produce biased or incorrect outputs (hallucinations). 
 Future developments include multimodal models, AI agents, improved reasoning capabilities, smaller efficient models, and stronger AI governance frameworks.
 
 Conclusion
+
 Generative AI and LLMs represent a transformative advancement in artificial intelligence. Understanding their architecture, training processes, and societal impact is crucial for future innovation and responsible deployment.
 
 References
+
 •	Vaswani et al. (2017). Attention is All You Need.
 •	OpenAI Technical Reports on GPT models.
 •	Google AI Research Publications.
