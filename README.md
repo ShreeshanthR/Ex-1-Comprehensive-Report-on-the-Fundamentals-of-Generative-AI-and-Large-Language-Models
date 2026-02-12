@@ -64,11 +64,13 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
 Prepared for: Prompt Engineering Assignment
 Date: 2026
 
 Abstract
+
 This report provides a comprehensive overview of Generative Artificial Intelligence (AI) and Large Language Models (LLMs). It explains foundational concepts, transformer architecture, training processes, scaling impacts, applications, limitations, and future trends. The objective is to present an educational and technical overview suitable for students and early professionals in AI.
 
 1. Introduction to Artificial Intelligence and Machine Learning
@@ -103,8 +105,10 @@ Scaling model parameters, training data, and compute power significantly improve
 Generative AI systems may produce biased or incorrect outputs (hallucinations). Ethical concerns include misinformation, data privacy, copyright issues, and job displacement. Responsible AI practices are essential.
 10. Future Trends
 Future developments include multimodal models, AI agents, improved reasoning capabilities, smaller efficient models, and stronger AI governance frameworks.
+
 Conclusion
 Generative AI and LLMs represent a transformative advancement in artificial intelligence. Understanding their architecture, training processes, and societal impact is crucial for future innovation and responsible deployment.
+
 References
 •	Vaswani et al. (2017). Attention is All You Need.
 •	OpenAI Technical Reports on GPT models.
