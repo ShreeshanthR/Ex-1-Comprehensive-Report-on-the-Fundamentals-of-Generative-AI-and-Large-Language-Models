@@ -117,4 +117,5 @@ References
 
 
 Result:
+
 Thus the Comprehensive Report on the Fundamentals of Generative AI and Large Language Models was created succesfully.
